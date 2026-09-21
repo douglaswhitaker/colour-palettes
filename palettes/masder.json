@@ -1,0 +1,61 @@
+{
+  "name": "MASDER",
+  "description": "Official colors for the MASDER project",
+  "colors": [
+    {
+      "name": "Dark Red",
+      "id": "dark_red",
+      "hex": "#B45138"
+    },
+    {
+      "name": "Medium Red",
+      "id": "medium_red",
+      "hex": "#EB6747"
+    },
+    {
+      "name": "Light Red",
+      "id": "light_red",
+      "hex": "#FFB9A7"
+    },
+    {
+      "name": "Gray",
+      "id": "regular_gray",
+      "hex": "#BEBEBE"
+    },
+    {
+      "name": "Light Gray",
+      "id": "light_gray",
+      "hex": "#E6E6E6"
+    },
+    {
+      "name": "Light Blue",
+      "id": "light_blue",
+      "hex": "#A7D1D9"
+    },
+    {
+      "name": "Medium Blue",
+      "id": "medium_blue",
+      "hex": "#74B3C1"
+    },
+    {
+      "name": "Dark Blue",
+      "id": "dark_blue",
+      "hex": "#2C8F9F"
+    },
+    {
+      "name": "Purple (Epic)",
+      "id": "purple",
+      "hex": "#9D7CA0"
+    },
+    {
+      "name": "Green (in table of instruments)",
+      "id": "green",
+      "hex": "#6E9B60"
+    },
+    {
+      "name": "Yellow (in table of instruments)",
+      "id": "yellow",
+      "hex": "#B08A00"
+    }
+  ]
+}
